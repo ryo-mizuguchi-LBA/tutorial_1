@@ -1,1 +1,2 @@
-sample clone
+sample clone 
+commitインデックスの状態を記憶する
